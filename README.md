@@ -1,4 +1,4 @@
-#BinaireAngular
+# BinaireAngular
 
 Projet de formation [Module Angular]
 
